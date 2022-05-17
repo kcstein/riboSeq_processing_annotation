@@ -1,6 +1,6 @@
 # riboSeq_processing_annotation
 
-This repository contains the relevant scripts for preprocess RiboSeq data and annotation files that may be useful for downstream secondary analysis.
+This repository contains the relevant scripts for the primary processing of RiboSeq data, along with annotation files that may be useful for downstream secondary analysis of data produced in *S. cerevisiae* or *C. elegans*.
 
 **preprocessing.sh:** Process RiboSeq demultiplexed FASTQ files by trimming adapters, removing 5' nucleotide, removing rRNAs, and mapping to library of protein coding sequences.
 
