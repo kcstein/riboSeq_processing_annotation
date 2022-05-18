@@ -14,3 +14,5 @@ This repository contains the relevant scripts for the primary processing of Ribo
 **bowtie_reference:** Contains reference FASTA files to create custom bowtie libraries for alignment RiboSeq data.
 
 **annotation:** Contains relevant files for secondary analysis, including annotation of the S. cerevisiae and C. elegans proteomes.
+
+**misc:** Assorted scripts for wrangling data, creating null distributions of sequences, and obtaining AA frequencies.
